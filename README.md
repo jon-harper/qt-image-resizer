@@ -1,0 +1,1 @@
+# qt-image-resizer
