@@ -1,0 +1,1526 @@
+@media screen {
+.qtdocs table {
+	border-collapse:collapse;
+	border-spacing:0
+}
+
+.qtdocs fieldset,.qtdocs img {
+	border:0;
+	max-width:100%
+}
+
+.qtdocs address,.qtdocs caption,.qtdocs cite,.qtdocs code,.qtdocs dfn,.qtdocs em,.qtdocs strong,.qtdocs th,.qtdocs var,.qtdocs optgroup {
+	font-style:inherit;
+	font-weight:inherit
+}
+
+.qtdocs del,.qtdocs ins {
+	text-decoration:none
+}
+
+.qtdocs li {
+	list-style:none
+}
+
+.qtdocs ol li {
+	list-style:decimal
+}
+
+.qtdocs caption,.qtdocs th {
+	text-align:left
+}
+
+.qtdocs h1,.qtdocs h2,.qtdocs h3,.qtdocs h4,.qtdocs h5,.qtdocs h6 {
+	font-size:100%
+}
+
+.qtdocs h2 {
+	font:600 16px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:15px;
+	width:100%
+}
+
+.qtdocs acronym {
+	border:0;
+	font-variant:normal
+}
+
+.qtdocs sup,.qtdocs sub {
+	vertical-align:baseline
+}
+
+.qtdocs tt,.qtdocs .qmlreadonly span,.qtdocs .qmldefault span {
+	word-spacing:5px;
+	vertical-align:top
+}
+
+.qmltype {
+	text-align:center;
+	font-size:160%
+}
+
+.qmlreadonly {
+	padding-left:5px;
+	float:right;
+	color:#254117
+}
+
+.qmldefault {
+	padding-left:5px;
+	float:right;
+	color:red
+}
+
+.qtdocs legend {
+	color:#000
+}
+
+.qtdocs input,.qtdocs button,.qtdocs textarea,.qtdocs select,.qtdocs optgroup,.qtdocs option {
+	font-family:inherit;
+	font-size:inherit;
+	font-style:inherit;
+	font-weight:inherit
+}
+
+.qtdocs input,.qtdocs button,.qtdocs textarea,.qtdocs select {
+	font-size:100%
+}
+
+.qtdocs strong {
+	font-weight:bold
+}
+
+.qtdocs em {
+	font-style:italic
+}
+
+.qtdocs {
+	font:normal 13px/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	color:#363534
+}
+
+.qtdocs a {
+	color:#00732f;
+	text-decoration:none
+}
+
+#nav-main-search-button.jquery-ui {
+	padding:2px 3px!important
+}
+
+.docpage-copyright-footer {
+	font-size:9px;
+	border-top:1px solid #d1d1d1;
+	margin-top:10px;
+	color:#999;
+	padding-top:10px
+}
+
+.qtdocs hr {
+	background-color:#e6e6e6;
+	border:1px solid #e6e6e6;
+	height:1px;
+	width:100%;
+	text-align:left;
+	margin:15px 0 15px 0
+}
+
+.qtdocs pre {
+	border:1px solid #ddd;
+	border-radius:7px 7px 7px 7px;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	-opera-border-radius:7px 7px 7px 7px;
+	margin:0 0 10px 10px;
+	padding:20px 15px 20px 20px;
+	overflow-x:auto
+}
+
+.qtdocs table,.qtdocs pre,.qtdocs .classElement {
+	font-size:11px;
+	border-radius:7px 7px 7px 7px;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	-opera-border-radius:7px 7px 7px 7px;
+	background-color:#f6f6f6;
+	border:1px solid #e6e6e6;
+	border-collapse:separate;
+	padding:10px 0
+}
+
+.stripeMe {
+	padding:0;
+	margin-top:10px;
+	margin-bottom:10px
+}
+
+.qtdocs table tr.alt {
+	background-color:#fff
+}
+
+.qtdocs table thead tr.alt {
+	background-color:#e1e1e1
+}
+
+.qtdocs table.propsummary td {
+	width:50%
+}
+
+.qtdocs .accessFunctions {
+	background-color:#f6f6f6;
+	border:1px solid #e6e6e6;
+	border-collapse:separate;
+	border-radius:7px 7px 7px 7px;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	-opera-border-radius:7px 7px 7px 7px;
+	font-size:11px;
+	margin:0 20px 10px 10px;
+	padding:0 20px;
+	overflow-x:auto
+}
+
+.qtdocs .accessFunctions p {
+	padding-bottom:0
+}
+
+.qtdocs .accessFunctions ul {
+	padding-top:0;
+	padding-bottom:10px
+}
+
+.qtdocs .valuelist {
+	margin:20px
+}
+
+.qtdocs thead {
+	margin-top:5px;
+	font:600 12px/1.2 Arial,FreeSans,sans-serif;
+	border-radius:7px 7px 0 0;
+	-moz-border-radius:7px 7px 0 0;
+	-webkit-border-radius:7px 7px 0 0;
+	-opera-border-radius:7px 7px 0 0;
+	background-color:#e1e1e1
+}
+
+.qtdocs th {
+	padding:5px 15px 5px 10px;
+	border-left:1px solid #e6e6e6
+}
+
+.qtdocs td {
+	padding:3px 0 3px 10px
+}
+
+.qtdocs div.heading,.qtdocs div.heading p {
+	font:normal bold 16px/1.2 Arial,FreeSans,sans-serif;
+	padding-bottom:15px
+}
+
+.qtdocs div.heading p {
+	padding:0 0 0 5px
+}
+
+.qtdocs .subtitle {
+	font-size:13px
+}
+
+.qtdocs .small-subtitle {
+	font-size:13px
+}
+
+.qtdocs .red {
+	color:red
+}
+
+.qtdocs .figCaption {
+	color:#363534;
+	font:italic 11px/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	padding-top:0
+}
+
+.qtdocs .apiDesc ol li {
+	background:0;
+	font:normal 10pt/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	margin-bottom:10px;
+	margin-left:12px
+}
+
+.qtdocs .apiDesc ol li {
+	background:0;
+	margin-bottom:10px;
+	padding-left:0;
+	margin-left:52px
+}
+
+.qtdocs .apiDesc li,.qtdocs .docpage li {
+	background:url(/images/qtdn/bullet_sq.png) no-repeat 0 5px;
+	font:normal 400 10pt/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	margin-bottom:10px;
+	padding-left:12px
+}
+
+.qtdocs .apiDesc h1,.qtdocs p.h1 {
+	font:bold 18px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs h1 {
+	font:bold 18px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs .apiDesc h2,.qtdocs p.h2,.qtdocs p.target {
+	font:600 16px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:15px;
+	width:100%
+}
+
+.qtdocs p.alphabet,.qtdocs p.target {
+	text-transform:capitalize
+}
+
+.qtdocs p.alphabet {
+	text-align:center;
+	font:600 18px/1.2 Arial,FreeSans,sans-serif;
+	word-spacing:10px!important
+}
+
+.qtdocs .apiDesc h3,.qtdocs p.h3 {
+	font:bold 14px/1.2 Arial,FreeSans,sans-serif;
+	font:600 16px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:15px;
+	width:100%
+}
+
+.qtdocs .doctable .apiDesc p,.qtdocs .p,.qtdocs .fileLocation p {
+	line-height:1.5;
+	padding-left:5px
+}
+
+.qtdocs .fileLocation p {
+	font-size:10px
+}
+
+.qtdocs .apiDesc table p {
+	line-height:20px
+}
+
+.qtdocs .apiDesc ul {
+	padding-left:25px;
+	padding-top:10px
+}
+
+.qtdocs dd {
+	margin-left:10px;
+	min-width:250px;
+	line-height:1.5;
+	min-height:15px
+}
+
+.qtdocs .toc {
+	float:right;
+	border-radius:7px 7px 7px 7px;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	-opera-border-radius:7px 7px 7px 7px;
+	background-color:#f6f6f6;
+	border:1px solid #ddd;
+	margin:0 20px 10px 10px;
+	padding:20px 15px 20px 20px;
+	height:auto;
+	width:200px
+}
+
+.qtdocs .toc h3,.qtdocs .generic a {
+	font:bold 12px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs .toc ul {
+	margin-left:-40px;
+	padding-top:0
+}
+
+.qtdocs .toc h3 {
+	border-bottom:0;
+	margin-top:0
+}
+
+.qtdocs .toc .level2 {
+	margin-left:15px
+}
+
+.qtdocs .toc .level3 {
+	margin-left:30px
+}
+
+.qtdocs .toc li {
+	font:normal 10px/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	background:url(/images/qtdn/bullet_dn.png) no-repeat 0 5px;
+	padding-left:10px;
+	padding-top:2px;
+	margin-top:5px
+}
+
+.qtdocs h3.fn,.qtdocs span.fn,.qtdocs .docpage h2.fn,.qtdocs .sublist-header,.qtdocs p.alphabet,.fn {
+	border-radius:7px 7px 7px 7px;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	-opera-border-radius:7px 7px 7px 7px;
+	background-color:#f6f6f6;
+	border-width:1px;
+	border-style:solid;
+	border-color:#e6e6e6;
+	font-weight:bold;
+	word-spacing:3px;
+	padding:3px 5px;
+	font:600 16px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs .cxxVariableAPIItemLocation,.qtdocs .cxxFunctionAPIItemLocation,.qtdocs .cxxClassAPIItemLocation {
+	display:none
+}
+
+.qtdocs .cxxVariablePrototype {
+	color:red
+}
+
+.qtdocs .cxxFunctionParameterDeclarationName {
+	font-style:italic
+}
+
+.qtdocs .cxxFunctionParameterDeclaredType {
+	padding-right:3px
+}
+
+.qtdocs img.center {
+	margin-left:auto;
+	margin-right:auto;
+	display:block
+}
+
+.qtdocs .teletype {
+	font-family:"Courier New" Fixed monospace
+}
+
+.qtdocs .Qt3-support,.qtdocs .obsolete {
+	display:none
+}
+
+.qtdocs .obsolete {
+	display:inline
+}
+
+.qtdocs .properties li span.leanRight,.qtdocs .macros li span.leanRight {
+	min-width:85px
+}
+
+.qtdocs .QML_class .properties li span.leanRight,.qtdocs .QML_class .macros li span.leanRight {
+	min-width:0
+}
+
+.qtdocs .break {
+	display:block
+}
+
+.qtdocs .inline {
+	display:inline-block
+}
+
+.qtdocs .left {
+	text-align:left
+}
+
+.qtdocs .right {
+	text-align:right
+}
+
+.qtdocs .center {
+	text-align:center
+}
+
+.qtdocs span.leanRight,.qtdocs .listLink,.qtdocs span.leanLeft {
+	display:inline-block;
+	vertical-align:top
+}
+
+.qtdocs .accessFunctions span.leanRight {
+	min-width:50px;
+	text-align:right
+}
+
+.qtdocs .leanLeft {
+	max-width:550px
+}
+
+.qtdocs .docpage {
+	text-align:left!important
+}
+
+.qtdocs ul li {
+	font-size:12px
+}
+
+.qtdocs .syntaxhighlighter {
+	font-size:12px!important
+}
+
+.qtdocs ol {
+	margin-left:45px
+}
+
+.qtdocs ul li {
+	margin-bottom:5px
+}
+
+.qtdocs ol li {
+	list-style-type:decimal;
+	font-size:12px;
+	margin-bottom:5px
+}
+
+.qtdocs {
+	word-wrap:break-word
+}
+
+.qtdocs ol li {
+	background:none repeat scroll 0 0 transparent;
+	font:10pt/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	margin-bottom:10px;
+	margin-left:12px
+}
+
+.qtdocs ol li {
+	background:none repeat scroll 0 0 transparent;
+	margin-bottom:10px;
+	margin-left:52px;
+	padding-left:0
+}
+
+.qtdocs li {
+	background:url("/images/qtdn/bullet_sq.png") no-repeat scroll 0 5px transparent;
+	font:400 10pt/1.2 Verdana,DejaVu Sans,Geneva,sans-serif;
+	margin-bottom:10px;
+	padding-left:12px
+}
+
+.qtdocs h1 {
+	font:bold 18px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs h2 {
+	font:600 16px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:15px
+}
+
+.qtdocs h3 {
+	font:600 15px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:15px
+}
+
+.qtdocs h4 {
+	font:600 14px/1.2 Arial,FreeSans,sans-serif;
+	margin-top:10px
+}
+
+.qtdocs p {
+	line-height:20px;
+	padding-top:5px;
+	padding-bottom:5px
+}
+
+.qtdocs table p {
+	line-height:20px
+}
+
+.qtdocs ul {
+	padding-left:25px;
+	padding-top:10px
+}
+
+.qtdocs ul img {
+	vertical-align:middle
+}
+
+.qtdocs .indexbox {
+	width:100%;
+	display:inline-block
+}
+
+.qtdocs .indexboxcont {
+	display:block
+}
+
+.qtdocs .indexboxbar {
+	background:transparent url(/images/qtdn/horBar.png) repeat-x left bottom;
+	margin-bottom:25px
+}
+
+.qtdocs .indexboxcont .section {
+	display:inline-block;
+	width:49%;
+	*width:42%;
+	_width:42%;
+	padding:0 2% 0 1%;
+	vertical-align:top
+}
+
+.qtdocs .indexboxcont .indexIcon {
+	width:11%;
+	*width:18%;
+	_width:18%;
+	overflow:hidden
+}
+
+.qtdocs .indexboxcont .section {
+	float:left
+}
+
+.qtdocs .indexboxcont .section p {
+	padding-top:20px;
+	padding-bottom:20px
+}
+
+.qtdocs .indexboxcont .sectionlist {
+	display:inline-block;
+	vertical-align:top;
+	width:32.5%;
+	padding:0
+}
+
+.qtdocs .indexboxcont .sectionlist ul {
+	margin-bottom:20px
+}
+
+.qtdocs .content .indexboxcont li {
+	font:normal bold 13px/1 Verdana,DejaVu Sans,Geneva,sans-serif
+}
+
+.qtdocs .indexbox a:hover,.indexbox a:visited:hover {
+	color:#4c0033;
+	text-decoration:underline
+}
+
+.qtdocs .indexbox a:visited {
+	color:#00732f;
+	text-decoration:none
+}
+
+.qtdocs .indexbox .indexIcon {
+	width:11%
+}
+
+.qtdocs .indexbox .indexIcon span {
+	display:block
+}
+
+.qtdocs .indexbox.guide .indexIcon .guideImg,.qtdocs .indexbox.guide .indexIcon {
+	width:96px;
+	height:137px;
+	background:url(/images/qtdn/doc-sprites-combined.png) no-repeat -5px -376px;
+	padding:0
+}
+
+.qtdocs .indexbox.tools .indexIcon .toolsImg,.qtdocs .indexbox.tools .indexIcon {
+	width:115px;
+	height:137px;
+	background:url(/images/qtdn/doc-sprites-combined.png) no-repeat -111px -376px;
+	padding:0
+}
+
+.qtdocs .indexboxcont:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden
+}
+
+.qtdocs .ddMemberDetails {
+	display:none
+}
+
+.qtdocs .showHideClicker img {
+	cursor:pointer;
+	vertical-align:bottom
+}
+
+.qtdocs .shortdescCont {
+	margin-left:10px
+}
+
+.qtdocs .showHideClicker {
+	margin-top:5px
+}
+
+.qtdocs .classElement dd {
+	padding:10px;
+	margin-top:0;
+	background-color:#fff
+}
+
+.qtdocs .fnList {
+	font-weight:bold;
+	word-spacing:3px;
+	font:normal 12px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs .classElement dd.cxxDetailsSection {
+	padding-top:3px;
+	padding-bottom:10px;
+	margin-top:5px;
+	margin-left:0
+}
+
+.qtdocs .classElement dd.cxxDetailsSection div {
+	margin-left:30px
+}
+
+.qtdocs .revealHiddenElements {
+	word-spacing:3px;
+	font:600 16px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs .revealHiddenElements li {
+	display:inline-block;
+	cursor:pointer;
+	color:#00732f;
+	padding-right:25px;
+	padding-left:25px;
+	margin-top:0;
+	margin-bottom:0;
+	background:none!important;
+	white-space:nowrap
+}
+
+.qtdocs .defaultHidden {
+	display:none
+}
+
+.qtdocs .memberSignature .apiName {
+	color:#00732f;
+	text-decoration:none;
+	cursor:pointer;
+	font:600 12px/1.2 Arial,FreeSans,sans-serif
+}
+
+.qtdocs span.leanLeft {
+	min-width:200px
+}
+
+.qtdocs .QML_class span.leanLeft {
+	min-width:0
+}
+
+.qtdocs span.leanRight {
+	min-width:300px
+}
+
+.qtdocs .QML_class span.leanRight {
+	min-width:0
+}
+
+.qtdocs .funcLeanLeft,.funcLeanRightNowidth {
+	padding-left:3px
+}
+
+.qtdocs .funcLeanRight {
+	width:200px;
+	text-align:right;
+	padding-right:10px;
+	height:18px
+}
+
+.qtdocs dl.cxxVariableListNoCol {
+	-moz-column-count:1
+}
+
+.qtdocs .funcLeanRight,.funcLeanLeft,.funcLeanRightNowidth {
+	display:inline-block
+}
+
+.qtdocs .funcLeanLeft {
+	vertical-align:top
+}
+
+.qtdocs .funcDetails {
+	display:inline-block;
+	vertical-align:top
+}
+
+.qtdocs .revealHiddenElementsUl {
+	margin-bottom:10px
+}
+
+.qtdocs img.page_icons {
+	margin-top:-4px;
+	padding-left:5px;
+	padding-right:5px;
+	vertical-align:middle
+}
+
+.qtdocs img.exclamationIcon {
+	padding-left:5px;
+	vertical-align:middle
+}
+
+.qtdocs .cxxEnumeratorPrototype,.qtdocs .funcParameter {
+	white-space:nowrap;
+	display:inline-block;
+	overflow:hidden;
+	max-width:400px;
+	vertical-align:top;
+	padding-left:5px;
+	height:18px
+}
+
+.qtdocs .funcParameterShorter:after {
+	content:'';
+	vertical-align:top
+}
+
+.qtdocs .cxxEnumeratorPrototypeShorter:after {
+	content:' ... 
+}
+
+';
+	vertical-align:top
+}
+
+.qtdocs .cxxEnumeratorPrototypeLong,.qtdocs .funcParameterLong {
+	max-width:400px
+}
+
+.qtdocs .cxxEnumeratorPrototypeLong:after {
+	content:' 
+}
+
+';
+	vertical-align:top
+}
+
+.qtdocs .funcParameterLong:after {
+	content:' )';
+	vertical-align:top
+}
+
+.qtdocs .membertools {
+	display:inline-block;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:1px;
+	padding-bottom:1px;
+	border-right:1px dotted #e6e6e6;
+	vertical-align:top
+}
+
+.qtdocs dt.fnList:hover {
+	background-color:#e6e6e6
+}
+
+.qtdocs .QML_class .methods .funcLeanRight,.qtdocs .QML_class .methods .leanRight {
+	text-align:left!important
+}
+
+.qtdocs .cxxFunctionDetail {
+	display:block;
+	clear:both
+}
+
+.qtdocs dd.cxxDetailsSection {
+	clear:both
+}
+
+.qtdocs dt.fnList .memberSignature .membertools {
+	float:left;
+	width:20px
+}
+
+.qtdocs dt.fnList .memberSignature .cxxFunctionDefinition tt {
+	font:inherit
+}
+
+.qtdocs dt.fnList .memberSignature .funcName {
+	height:auto;
+	float:left
+}
+
+.qtdocs dt.fnList .memberSignature .cxxFunctionDefinition {
+	float:left
+}
+
+.qtdocs .fnList {
+	clear:both
+}
+
+.qtdocs .classElement dd.cxxDetailsSection {
+	clear:both
+}
+
+.cxxFunction {
+	display:block;
+	clear:both
+}
+
+.tablewrap {
+	background-color:#f6f6f6;
+	border:1px solid #e6e6e6;
+	-moz-border-radius:7px 7px 7px 7px;
+	-webkit-border-radius:7px 7px 7px 7px;
+	border-radius:7px 7px 7px 7px;
+	padding:10px 0;
+	margin:0;
+	clear:both
+}
+
+.qtdocs .doctable {
+	width:100%;
+	border-collapse:collapse;
+	font-size:12px;
+	line-height:16px;
+	padding:0;
+	margin:0;
+	border:0;
+	background-color:transparent
+}
+
+.qtdocs .doctable th,.qtdocs .doctable td {
+	border:0;
+	vertical-align:top;
+	text-align:left;
+	padding:0
+}
+
+.qtdocs .doctable tr .short,.qtdocs .doctable tr.full .full,.qtdocs .doctable span {
+	display:inline-block;
+	padding-right:3px
+}
+
+.ie7 .qtdocs .doctable span span {
+	display:inline
+}
+
+.qtdocs .doctable a span {
+	cursor:pointer
+}
+
+.qtdocs .doctable .toggle {
+	width:16px;
+	padding:0 15px;
+	border-right:1px dotted #e6e6e6
+}
+
+.qtdocs .doctable .cxxVariableDefinition {
+	padding-left:10px
+}
+
+.qtdocs .doctable .cxxVariableDefinition a {
+	font-weight:bold
+}
+
+.qtdocs .doctable .functionname {
+	padding-left:10px;
+	text-align:right;
+	width:150px
+}
+
+.qtdocs .doctable.enumeration .functionname {
+	white-space:nowrap
+}
+
+.qtdocs .typedef td.type {
+	padding-left:10px;
+	white-space:nowrap
+}
+
+.qtdocs .typedef td.type .memberType {
+	margin-right:5px
+}
+
+.qtdocs .typedef td.details {
+	padding-left:10px
+}
+
+.qtdocs .typedef td.details a {
+	font-weight:bold
+}
+
+.qtdocs .doctable .definition {
+	padding-left:10px;
+	_width:500px;
+	*width:500px
+}
+
+.qtdocs .doctable .definition a.desc {
+	display:inline-block;
+	font-weight:bold;
+	margin-right:5px
+}
+
+.qtdocs .doctable .toggle a,.qtdocs .doctable .toggle a span {
+	width:16px;
+	height:16px;
+	outline:0
+}
+
+.qtdocs .doctable .toggle a span {
+	display:block;
+	border:0;
+	text-indent:-999em;
+	overflow:hidden;
+	background-color:transparent;
+	background-repeat:no-repeat;
+	text-align:left;
+	direction:ltr;
+	background-image:url(/images/qtdn/zoom.png)
+}
+
+.qtdocs .doctable tr.full .toggle a span {
+	background-position:0 -16px
+}
+
+.qtdocs .doctable tr.macro td,.qtdocs .doctable tr.typedef td,.qtdocs .doctable tr.function td {
+	padding-top:3px;
+	padding-bottom:2px
+}
+
+.qtdocs .doctable tr.function:hover {
+	background-color:#e6e6e6
+}
+
+.qtdocs .doctable tr.function.full:hover {
+	background-color:transparent
+}
+
+.qtdocs .doctable tr.typedef.full td,.qtdocs .doctable tr.function.full td {
+	padding-bottom:5px
+}
+
+.qtdocs .doctable tr.header,.qtdocs .doctable tr.qt3support,.qtdocs .doctable tr.obsolete,.qtdocs .doctable tr.description,.qtdocs .doctable tr.location,.qtdocs .doctable tr .full,.qtdocs .doctable tr.full .short {
+	display:none
+}
+
+.qtdocs .doctable tr.header.visible,.qtdocs .doctable tr.qt3support.visible,.qtdocs .doctable tr.obsolete.visible,.qtdocs .doctable tr.qt3support.full,.qtdocs .doctable tr.obsolete.full,.qtdocs .doctable tr.description.full,.qtdocs .doctable tr.location.full {
+	display:table-row;
+	_display:block;
+	*display:block
+}
+
+.qtdocs .doctable tr.description,.qtdocs .doctable tr.location {
+	background-color:#fff;
+	*width:96%
+}
+
+.qtdocs .doctable tr.header {
+	font-weight:bold;
+	font-size:20px
+}
+
+.qtdocs .doctable tr.header td.label {
+	padding:5px 0 5px 10px
+}
+
+.qtdocs .doctable tr.description td,.qtdocs .doctable tr.location td {
+	padding:5px 5px 5px 0
+}
+
+.qtdocs .doctable tr.description p,.qtdocs .doctable tr.location p {
+	margin-left:47px;
+	padding:0
+}
+
+.qtdocs .doctable p {
+	line-height:1.2;
+	margin-bottom:10px
+}
+
+.qtdocs .doctable p:last-child {
+	margin-bottom:0
+}
+
+.qtdocs .doctable tr p.wrap {
+	display:inline-block;
+	margin:0;
+	padding:0
+}
+
+.qtdocs .doctable tr.obsolete p.wrap,.qtdocs .doctable tr.qt3support p.wrap {
+	min-height:16px
+}
+
+.qtdocs ul.shortcuts {
+	list-style:none;
+	margin:10px 0 0 22px;
+	padding:0
+}
+
+.qtdocs ul.shortcuts li {
+	list-style:none;
+	float:left;
+	margin-left:25px;
+	padding:0;
+	background-image:none
+}
+
+.qtdocs ul.shortcuts li a {
+	padding-left:22px;
+	background:url(/images/qtdn/textfield.png) no-repeat 0 0;
+	text-decoration:none;
+	display:block
+}
+
+.qtdocs ul.shortcuts li,.qtdocs ul.shortcuts li a {
+	height:16px
+}
+
+.qtdocs ul.shortcuts li a.visible {
+	background-position:0 -16px
+}
+
+.qtdocs ul.shortcuts li a.visible span.hide,.qtdocs ul.shortcuts li a span.show {
+	display:inline-block
+}
+
+.qtdocs ul.shortcuts li a.visible span.show,.qtdocs ul.shortcuts li a span.hide {
+	display:none
+}
+
+.qtdocs .tablewrap ul.shortcuts {
+	margin:10px 0 0 45px
+}
+
+.qtdocs .tablewrap ul.shortcuts li {
+	float:none;
+	margin:0
+}
+
+.qtdocs .tablewrap ul.shortcuts li a {
+	text-decoration:none;
+	padding:0;
+	background-image:none
+}
+
+.qtdocs .tablewrap .accessFunctions {
+	margin-top:10px;
+	padding-top:10px
+}
+
+.qtdocs .tablewrap tr.description .accessFunctions p,.qtdocs .tablewrap tr.description td div p {
+	margin-left:0
+}
+
+.qtdocs .tablewrap tr.description .apiDesc {
+	margin:0 0 0 47px;
+	padding:0
+}
+
+.qtdocs .tablewrap td div p {
+	margin-left:0
+}
+
+.qtdocs .tablewrap tr.description .accessFunctions {
+	padding:5px;
+	margin:10px 0 0 47px
+}
+
+.qtdocs .tablewrap .enumeration tr.description .apiDesc .valuelist {
+	margin:0
+}
+
+.qtdocs .doctable tr.description td,.qtdocs .doctable tr.location td {
+	padding:5px 5px 5px 0
+}
+
+.qtdocs .doctable tr.description td th,.qtdocs .doctable tr.description td td {
+	padding:5px 15px 5px 10px
+}
+
+.qtdocs .doctable tr.macro .signature {
+	padding-left:10px
+}
+
+.qtdocs .doctable tr.macro .signature a {
+	font-weight:bold
+}
+
+.clearfix:before,.clearfix:after {
+	content:"";
+	display:table
+}
+
+.clearfix:after {
+	clear:both
+}
+
+.clearfix {
+	*zoom:1
+}
+
+
+}
+
+.qtdocs h1,.qtdocs h2,.qtdocs h3,.qtdocs h4,.qtdocs h5,.qtdocs h6 {
+	box-sizing:border-box;
+	margin-top:20px
+}
+
+.qtdocs h1.title {
+	margin-top:0
+}
+
+.qtdocs .centerAlign {
+	text-align:center
+}
+
+.qtdocs .rightAlign {
+	text-align:right
+}
+
+.qtdocs .leftAlign {
+	text-align:left
+}
+
+.qtdocs .topAlign {
+	vertical-align:top
+}
+
+.qtdocs div.heading {
+	padding-bottom:5px
+}
+
+.qtdocs .indexboxcont .sectionlist ul li {
+	padding-bottom:4px
+}
+
+.qtdocs .sectionlist.normallist ul {
+	padding-left:7px
+}
+
+.qtdocs ul {
+	padding:10px 0 10px 25px
+}
+
+.qtdocs ul li {
+	border:0;
+	padding-bottom:3px;
+	line-height:1.5
+}
+
+.qtdocs ul li.fn {
+	padding-top:0
+}
+
+.qtdocs .toc li {
+	padding-bottom:3px
+}
+
+.qtdocs h2 {
+	font:600 16px/20;
+	margin:20px 0 7px 0
+}
+
+.qtdocs .toc ul {
+	margin-left:-25px
+}
+
+.qtdocs table,.qtdocs .classElement {
+	padding:2px
+}
+
+.qtdocs .toc {
+	padding:14px 25px
+}
+
+.qtdocs .toc ul {
+	padding-bottom:0
+}
+
+.qtdocs table {
+	padding:5px 5px 5px 10px
+}
+
+.qtdocs table ul {
+	padding:0
+}
+
+.qtdocs td {
+	padding-right:10px
+}
+
+.qtdocs table.valuelist tr.odd {
+	background-color:#e6e6e6
+}
+
+.qtdocs table.valuelist {
+	margin:5px 0 20px 0
+}
+
+.qtdocs pre {
+	padding:14px;
+	margin-left:0
+}
+
+.qtdocs ol {
+	margin-left:25px
+}
+
+.qtdocs ol li {
+	margin-left:25px
+}
+
+.qtdocs h3.fn,.qtdocs span.fn,.qtdocs .docpage h2.fn,.qtdocs .sublist-header,.qtdocs p.alphabet,.fn {
+	padding:5px 5px 5px 10px
+}
+
+span.comment {
+	color:#008b00;
+	font-style:italic
+}
+
+span.string,span.char {
+	color:#000084
+}
+
+span.number {
+	color:#a46200
+}
+
+span.operator {
+	color:#202020
+}
+
+span.keyword {
+	color:#840000
+}
+
+span.name {
+	color:black
+}
+
+span.type {
+	font-weight:bold
+}
+
+span.type a:visited {
+	color:#0f5300
+}
+
+span.preprocessor {
+	color:#404040
+}
+
+table tr.odd {
+	border-left:1px solid #e6e6e6;
+	background-color:#f6f6f6;
+	color:#66666e
+}
+
+table tr.even {
+	border-left:1px solid #e6e6e6;
+	background-color:#fff;
+	color:#66666e
+}
+
+.docpage-copyright-footer {
+	margin-bottom:15px
+}
+
+.col-group {
+	white-space:nowrap;
+	vertical-align:top
+}
+
+.col-1 {
+	display:inline-block;
+	white-space:normal;
+	width:70%;
+	height:100%;
+	float:left
+}
+
+.col-1 h1 {
+	margin:20px 0 0 0
+}
+
+.col-2 {
+	display:inline-block;
+	white-space:normal;
+	width:25%;
+	margin:0 0 0 50px
+}
+
+.sectionlist {
+	width:100%!important
+}
+
+.qtdocs .col-group .indexboxbar {
+	background:transparent url(/images/qtdn/horBar1.png) repeat-x left bottom;
+	margin-bottom:25px
+}
+
+.qtdocs .col-group h2 {
+	background-color:#f1f3f4;
+	border-bottom:1px solid #e0e0de;
+	border-top:1px solid #e0e0de;
+	padding:4px
+}
+
+
+/*
+-----------
+Landing page
+-----------
+*/
+
+.col-group  {
+	
+    vertical-align: top;
+	
+
+}
+
+
+
+.landing  {
+	
+    width: 100%;
+	
+
+}
+
+
+.landing h2  {
+	
+    background-color: transparent;
+	
+    border: none;
+	
+    margin-bottom: 0px;
+	
+    font-size: 18px;
+	
+
+}
+
+
+
+.landing a, .landing li  {
+	
+    font-size: 13px;
+	
+    font-weight: bold !important;
+	
+
+}
+
+
+
+.col-1  {
+	
+    display: inline-block;
+	
+    white-space: normal;
+	
+    width: 70%;
+	
+    height: 100%;
+	
+    float: left;
+	
+
+}
+
+
+
+.col-2  {
+	
+    display: inline-block;
+	
+    width: 25%;
+	
+    margin-left: 5%;
+	
+    position: relative;
+	
+    top: -55px;
+	
+
+}
+
+
+
+.col-1 h1  {
+	
+     margin: 20px 0 0 0;
+	
+
+}
+
+
+
+.col-1 h2  {
+	
+    font-size: 18px;
+	
+    font-weight: bold !important;
+	
+
+}
+
+
+
+.landingicons  {
+	
+    display: inline-block;
+	
+    width: 100%;
+	
+
+}
+
+
+
+.icons1of3  {
+	
+    display: inline-block;
+	
+    width: 33.3333%;
+	
+    float: left;
+	
+
+}
+
+
+
+.icons1of3  h2  {
+	
+    font-size: 15px;
+	
+    margin: 0px;
+	
+    padding: 0px;
+	
+
+}
+
+
+
+.sectionlist  {
+	
+    width: 100%;
+	
+
+}
+
+
+
+.qtdocs .icons1of3 ul  {
+	
+     padding-left: 7px;
+	
+     /*testing*/
+
+}
+
+
+
+/*test ing*/

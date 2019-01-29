@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="advanced.png">advancedsettings.png</file>
+    <file alias="resize.png">resize.png</file>
+    <file alias="debug.png">debug.png</file>
+    <file alias="folder.png">folder.png</file>
+    <file alias="image.png">image.png</file>
+    <file alias="refresh.png">refresh.png</file>
+    <file alias="start.png">start.png</file>
+    <file alias="stop.png">stop.png</file>
+  </qresource>
+</RCC>

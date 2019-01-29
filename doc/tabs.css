@@ -1,0 +1,51 @@
+.tabs, .tabs2, .tabs3 {
+    /*background-image: url('tab_b.png');*/
+    width: 100%;
+    z-index: 101;
+    font-size: 12px;
+    background-color: #FAFAFA;
+    border-bottom: solid 1px #BABABA;
+}
+
+.tabs {
+    border-top: solid 1px #BABABA;
+}
+.tabs2 {
+    font-size: 10px;
+}
+.tabs3 {
+    font-size: 9px;
+}
+
+.tablist {
+    margin: 0;
+    padding: 0;
+    display: table;
+}
+
+.tablist li {
+    float: left;
+    display: table-cell;
+    line-height: 32px;
+    list-style: none;
+}
+
+.tablist a {
+    color: #00732f;
+    text-decoration: none;
+    display: block;
+    padding: 0 10px;
+}
+
+.tabs3 .tablist a {
+    padding: 0 10px;
+}
+
+.tablist a:hover {
+    text-decoration: underline;
+}
+
+.tablist li.current a {
+    font-weight: bold;
+    background-color: #EAEAEA;
+}
