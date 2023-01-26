@@ -1,8 +1,8 @@
 # qt-image-resizer
 
 This is a simple application I wrote around 2013. It is
-updated to use Qt5 and C++17 where applicable and shows good use of 
-`QObject::moveToThread` and queued signals and slots. It uses
+updated to use Qt5 and C++17. Threading properly the QObject model,
+`QObject::moveToThread`, and queued signals and slots. It relies on
 ImageMagick's Lanczos3 implementation and contains a number of widgets
 that may be useful to other implementers.
 
